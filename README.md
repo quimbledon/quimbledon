@@ -20,7 +20,8 @@ profile with a selection of my own delightful programs and coding examples. Have
 
 Some quality stuff going on right here:
 
-- [Project 1 Name](link_to_project_1): Short description or key highlights.
+- [Finance Calculator](https://github.com/quimbledon/Bootcamp/blob/main/finance_calculators.py):
+  Who doesn't enjoy a finance calculator?
 - [Project 2 Name](link_to_project_2): Short description or key highlights.
 - [Project 3 Name](link_to_project_3): Short description or key highlights.
 
