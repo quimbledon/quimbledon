@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile. Get involved
 
-![Profile Picture](https://github.com/quimbledon/quimbledon/raw/main/IMG_E4759.JPG)
+<img src="https://github.com/quimbledon/quimbledon/raw/main/IMG_E4759.JPG" alt="Profile Picture" style="width:300px;">
+
 
 
 
