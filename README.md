@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Welcome to My GitHub Profile. Get involved
 
 ![Profile Banner](banner_image_url)
 
@@ -18,12 +18,14 @@ profile with a selection of my own delightful programs and coding examples. Have
 
 ## Projects
 
-Some quality stuff going on right here:
+Some quality stuff going on right here I created:
 
 - [Finance Calculator](https://github.com/quimbledon/Bootcamp/blob/main/finance_calculators.py):
   Who doesn't enjoy a finance calculator?
-- [Project 2 Name](link_to_project_2): Short description or key highlights.
-- [Project 3 Name](link_to_project_3): Short description or key highlights.
+- [Minesweeper](https://github.com/quimbledon/Bootcamp/blob/main/minesweeper.py):
+  A delicious minesweeper-esque task. Lots of sleepless nights creating this code
+- [Watch Next](https://github.com/quimbledon/Bootcamp/blob/main/watch_next.py):
+  Pure SpaCy going on here. This code will dictate and revolutionise your television viewing!
 
 ## Education
 
@@ -32,10 +34,11 @@ Some quality stuff going on right here:
 
 ## Contact Me
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: (https://www.linkedin.com/in/paul-armstrong37/)
 
 Feel free to get in touch to patronise my work or perhaps to chat about 19th century history
+
+
 
 Thank you for visiting my GitHub profile!
 "It's been... educational..." - M.McFly
