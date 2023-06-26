@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile. Get involved
 
-![Profile Banner](banner_image_url)
+[![Profile Picture](https://github.com/quimbledon/quimbledon/raw/main/thumbnail.jpg)](https://github.com/quimbledon/quimbledon/raw/main/IMG_E4759.JPG)
+
 
 ## About Me
 
