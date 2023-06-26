@@ -4,18 +4,21 @@
 
 ## About Me
 
-Hello! I'm [Your Name], a passionate [Your Profession/Field] from [Your Location]. I love [Your Interests/Hobbies] and enjoy working on [Your Areas of Expertise].
+I am Paul and, having recently completed a Data Science Bootcamp with HyperionDev, have created this Github
+profile with a selection of my own delightful programs and coding examples. Have a browse and feel the adequacy.
 
 ## Skills
 
-- Programming Languages: [List of Programming Languages]
-- Frameworks and Libraries: [List of Frameworks and Libraries]
-- Tools and Technologies: [List of Tools and Technologies]
-- Other Skills: [Other Relevant Skills]
+- Python
+- Jupyter
+- Data Science
+- Office
+- Visual Studio Code
+- Plus many more!!!
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Some quality stuff going on right here:
 
 - [Project 1 Name](link_to_project_1): Short description or key highlights.
 - [Project 2 Name](link_to_project_2): Short description or key highlights.
@@ -23,17 +26,18 @@ Here are some of the projects I've worked on:
 
 ## Education
 
-- [Degree/Certificate Name](university_name): Year of completion
-- [Degree/Certificate Name](university_name): Year of completion
+- HyperionDev Data Science Bootcamp - Grade 100%: Completed June 2023
+- University of Liverpool: History (BA Hons) - First-class honours: Completed 2010
 
 ## Contact Me
 
 - Email: [Your Email Address]
 - LinkedIn: [Your LinkedIn Profile URL]
 
-Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
+Feel free to get in touch to patronise my work or perhaps to chat about 19th century history
 
 Thank you for visiting my GitHub profile!
+"It's been... educational..." - M.McFly
 
 
 
